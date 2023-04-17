@@ -1,0 +1,14 @@
+{
+  "name": "sorry-paris2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cypress open"
+  },
+  "author": "darkweak",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.9.0"
+  }
+}
